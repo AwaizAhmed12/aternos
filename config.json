@@ -2,5 +2,5 @@
 	"ip":"OUTCAST5MP.aternos.me",
 	"port": "24342",
 	"name": "MinecraftIsTheBest",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
